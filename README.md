@@ -9,3 +9,8 @@ Button cooldowns (ms)
 Unlimited responses
 
 Free & Open Source ❤️
+
+# Contact Me
+![a](https://i.giphy.com/VbnUQpnihPSIgIXuZv.webp)
+Discord: IdkMaxii
+Mail: soporte@molret.tech
